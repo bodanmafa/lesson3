@@ -1,0 +1,35 @@
+ body {
+     background-color: #ADA9A8;
+     font-family: monospace;
+     margin: 0px;
+     padding: 0px;
+
+}
+ a {
+    color: green;
+}
+ h5 {
+    color: yellow;
+}
+ 
+  button {
+     border-radius: 500px;
+}
+  p {
+     color: green;
+     margin: 0px;
+}
+  .email1 {
+    border: 3px double pink;
+}
+  .code2 {
+    border: 2.5px double purple;
+}
+  .container1 {
+    position: relative;
+}
+  .spinner-border {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+}
